@@ -11,12 +11,11 @@ This project implements an end-to-end Machine Learning pipeline to detect fraudu
 The project includes a custom-built **Streamlit Web Application** that acts as a live payment gateway simulator, allowing users to run transactions through the model in real-time.
 
 ### 📸 Dashboard Previews
+<img width="1080" height="902" alt="Screenshot 2026-02-19 233146" src="https://github.com/user-attachments/assets/4ef186fe-33ca-467e-abdc-0eae8d0d6d49" />
 
-![Transaction Analysis Overview](<img width="1080" height="902" alt="Screenshot 2026-02-19 233146" src="https://github.com/user-attachments/assets/4ef186fe-33ca-467e-abdc-0eae8d0d6d49" />
-)
+Fraud Detection:
+<img width="991" height="901" alt="Screenshot 2026-02-19 233125" src="https://github.com/user-attachments/assets/0dac889f-4216-4385-9f76-629da3b797c9" />
 
-![Fraud Detection Alert](<img width="991" height="901" alt="Screenshot 2026-02-19 233125" src="https://github.com/user-attachments/assets/0dac889f-4216-4385-9f76-629da3b797c9" />
-)
 
 ## 🚀 Key Features
 * **Synthetic Data Generation:** A robust Python script generating 10,000+ realistic, time-ordered transactions with imbalanced fraud rates (1-5%).
